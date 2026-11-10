@@ -145,7 +145,7 @@ The main entry point of the application.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/abhishekv2821/student-management-api
 ```
 
 Then move into the project:
